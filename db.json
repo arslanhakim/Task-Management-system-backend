@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "username": "user1",
+      "password": "password1",
+      "groupId": "group1"
+    },
+    {
+      "id": "user2",
+      "username": "user2",
+      "password": "password2",
+      "groupId": "group1"
+    },
+    {
+      "id": "user3",
+      "username": "user3",
+      "password": "password3",
+      "groupId": "group2"
+    },
+    {
+      "id": "user4",
+      "username": "user4",
+      "password": "password4",
+      "groupId": "group2"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Hamza",
+      "description": "Hamza",
+      "completed": false,
+      "groupId": "group2",
+      "id": "yQp2xNV5wOmOuVWhN95ou"
+    },
+    {
+      "groupId": "group2",
+      "title": "usman",
+      "description": "no description",
+      "completed": false,
+      "id": "drcE-rjsDDS9-yNoGGKRy"
+    },
+    {
+      "groupId": "group1",
+      "title": "salman",
+      "description": "salman",
+      "completed": false,
+      "id": "iAULG-ZtCFKDnLzyqhpPm"
+    },
+    {
+      "groupId": "group1",
+      "title": "Tetsing",
+      "description": "writing this description for the testing purposes. writing this description for the testing purposes.writing this description for the testing purposes.writing this description for the testing purposes.writing this description for the testing purposes.writing this description for the testing purposes.writing this description for the testing purposes.",
+      "completed": true,
+      "id": "s4uxVjA--Tnx6RVv1-lPt"
+    },
+    {
+      "title": "Shoab",
+      "description": "Akhtar",
+      "completed": false,
+      "id": "JA28oKC5U9q5Ab1WudM5_",
+      "groupId": "group1"
+    },
+    {
+      "title": "sdcsd",
+      "description": "csdcsd",
+      "completed": false,
+      "id": "j9GxiF7B1qH6Kwo2qgI1W",
+      "groupId": "group1"
+    },
+    {
+      "title": "sxsxcdcdcd",
+      "description": "cdcdc",
+      "completed": false,
+      "id": "XixOwEkMvtL50cVFJvL01",
+      "groupId": null
+    },
+    {
+      "title": "ssssss",
+      "description": "dd",
+      "completed": false,
+      "id": "TNyz_D8daXCRK0fzIjzC5",
+      "groupId": null
+    },
+    {
+      "title": "adcq",
+      "description": "cdwsdc",
+      "completed": false,
+      "id": "vEY4uTpGaocWJlAdBmGyS",
+      "groupId": null
+    },
+    {
+      "title": "cdc",
+      "description": "dc",
+      "completed": false,
+      "id": "j-0uhnmPBg17evNCZw42S",
+      "groupId": "group1"
+    }
+  ]
+}
